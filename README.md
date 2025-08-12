@@ -1,6 +1,7 @@
 # bigb9109.github.io
 ### CS499
-<h1>Hello, I am Brandon</h1>, <a> Electronic Engineer</a>, <a> Plant Engineer</a>
+<h1>Hello, I am Brandon</h1> <a> Electronic Engineer</a>, <a> Plant Engineer</a>
+
 [Github link]( https://github.com/bigb9109/CS499.git ) 
 
 <h2> Code Review</h2>
