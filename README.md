@@ -2,4 +2,4 @@
 ### CS499
 <h1>Hello, I am Brandon</h1>
 <a>href=" https://github.com/bigb9109/CS499.git "</a> 
-<a>href=" https://youtu.be/QB71INFtvU0 "</a>
+<a>href="https://youtu.be/QB71INFtvU0"</a>
