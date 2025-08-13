@@ -14,6 +14,7 @@
 
 <h1>Narratives</h1>
 <h4>This section consist of the narratives of the milestones.</h4>
+
 [Milestone 2 Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbigb9109%2FCS499%2Frefs%2Fheads%2Fmain%2FWeek%25203%2520narrative.docx&wdOrigin=BROWSELINK)
 
 [Milestone 3 Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbigb9109%2FCS499%2Frefs%2Fheads%2Fmain%2Fmilestone%25203.docx&wdOrigin=BROWSELINK)
