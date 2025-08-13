@@ -9,7 +9,7 @@
 [Github link]( https://github.com/bigb9109/CS499.git ) 
 
 <h2> Code Review</h2>
-<h3>Due to the size of the code review the video had to be put on youtube.The link will take you to my youtube profile where the code review is located.</h3>
+<h4>Due to the size of the code review the video had to be put on youtube.The link will take you to my youtube profile where the code review is located.</h4>
 [Code Review](https://youtu.be/QB71INFtvU0)
 
 
