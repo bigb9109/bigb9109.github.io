@@ -5,7 +5,7 @@
 
 <h1>Hello, I am Brandon</h1> <a> Electronic Engineer</a>, <a> Plant Engineer</a>
 
-<h4>The following link will send you to the github account that houses the project artifacts, including the original code.</h4>
+<h4>The following link will send you to the github account that houses the project artifacts, including the original code. To access the code the code has to be selected followed by clicking on Raw. The size of the code caused it to be to large to display when clicking on it.</h4>
 [Github link]( https://github.com/bigb9109/CS499.git ) 
 
 <h2> Code Review</h2>
