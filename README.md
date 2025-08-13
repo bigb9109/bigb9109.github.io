@@ -12,6 +12,10 @@
 <h4>Due to the size of the code review the video had to be put on youtube.The link will take you to my youtube profile where the code review is located.</h4>
 [Code Review](https://youtu.be/QB71INFtvU0)
 
+<h4>This section includes the software design document used to make the original travel program</h4>
+
+[Traveler Software Design Document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbigb9109%2FCS499%2Frefs%2Fheads%2Fmain%2FCS%2520465%2520Software%2520Design%2520Document.docx&wdOrigin=BROWSELINK)
+  
 <h1>Narratives</h1>
 <h4>This section consist of the narratives of the milestones.</h4>
 
