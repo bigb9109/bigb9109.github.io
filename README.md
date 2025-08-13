@@ -2,6 +2,7 @@
 ### CS499
 
 <h2> Computer Science Portfolio</h2>
+<h2>Self Assessment</h2>
 
 <h1>Hello, I am Brandon Myers</h1> <a> Electronic Engineer</a>, <a> Plant Engineer</a>
 
@@ -26,7 +27,7 @@
 [Milestone 4 Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fbigb9109%2FCS499%2Frefs%2Fheads%2Fmain%2FMilestone%25204.docx&wdOrigin=BROWSELINK)
 
 
-<h2>Self Assessment</h2>
+
 
 <h2> Connect With Me </h2>
 [LinkedIn]( https://www.linkedin.com/in/brandon-myers-22977a212 )
