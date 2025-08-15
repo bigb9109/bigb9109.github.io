@@ -4,7 +4,7 @@
 <h2> Computer Science Portfolio</h2>
 
 <h2>Self Assessment</h2>
-<h4>When I began the gaol was to learn how to code to improve the electronic things that I created. I realized early that if I didn't know how to code then anything that I built would just be a electronic paper work. The direction that the world is going programmable technology is everywhere. As the classes went along the world started focussing more on AI. The new goal was to learn about AI. Completing the different assignments taught me how to code in Python, C++, and JavaScript. The program also taught me about machine learning which is used in the project to figure out what products sale and which is likely to sale well, and which products are less likely to sale.  </h4>
+<h4>When I began the gaol was to learn how to code to improve the electronic things that I created. I realized early that if I didn't know how to code then anything that I built would just be a electronic paper work. The direction that the world is going programmable technology is everywhere. As the classes went along the world started focussing more on AI. The new goal was to learn about AI. Completing the different assignments taught me how to code in Python, C++, and JavaScript. The program also taught me about machine learning which is used in the project to figure out what products sale and which is likely to sale well, and which products are less likely to sale. From that there is the potential do create a program that selects the order that the product shows up when the user logs in. That would be more effective with a website with several different products.    </h4>
 
 <h1>Hello, I am Brandon Myers</h1> <a> Electronic Engineer</a>, <a> Plant Engineer</a>
 
